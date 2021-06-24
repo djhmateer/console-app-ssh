@@ -14,7 +14,7 @@ namespace ConsoleAppSSH
             Console.WriteLine("Hello World!");
 
             var number = 489;
-            var password = "SnDjwe2fft17kzq5PAL8eCDXdB06oxWa1h";
+            var password = "secret";
 
             var host = $"webfacesearchgpu{number}.westeurope.cloudapp.azure.com";
             var username = "dave";
